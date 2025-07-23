@@ -8,7 +8,7 @@ AgroSight is an AI-powered web application built using *Flask* that helps farmer
 
 ### 🍎 AI-Based Fruit Disease Prediction
 - Upload fruit images and receive instant predictions.
-- Detects diseases like *Anthracnose, **Fruit Fly, **Defect Dragon Fruit*, and more.
+- Detects diseases like **Anthracnose**, **Fruit Fly**, **Defect Dragon Fruit**, and more.
 - Trained on 4299 images using a custom CNN model.
 
 ### 💬 Multilingual Smart Chatbot (Powered by Gemini API)
