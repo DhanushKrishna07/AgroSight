@@ -94,4 +94,10 @@ These are predictions of fruits with no disease symptoms.
 ```bash
 git clone https://github.com/DhanushKrishna07/AgroSight.git
 cd AgroSight
-python app.py 
+python app.py
+```
+---
+
+## 📦 Model File Access
+⚠️ Note: The .h5 model file (253 MB) is not included in this repository due to GitHub's file size limitations.  
+If you would like to try the prediction feature locally, you can request the model file by contacting: [dhanushkrishnab@gmail.com](mailto:dhanushkrishnab@gmail.com)
