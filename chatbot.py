@@ -1,8 +1,9 @@
-# genai_test.py
+import os
+from dotenv import load_dotenv
 import google.generativeai as genai
 
 # Configure API
-API_KEY = "AIzaSyBKvgkOVntPZ_c9DmbwS2TaY-vQ2q6zNKE"
+API_KEY = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=API_KEY)
 
 # Load Gemini Model
