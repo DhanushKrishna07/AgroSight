@@ -40,6 +40,27 @@ AgroSight is an AI-powered web application built using *Flask* that helps farmer
 
 ## 📸 Demo Screenshots
 
+### 🍂 Diseased Fruits
+These images represent fruits affected by various diseases, as detected by the AgroSight model.
+
+**Anthracnose on Guava**
+![Anthracnose on Guava](assets/screenshots/Guava%20-%20Anthracnose%20Disease.png)
+
+**Fruit Fly Infection in Guava**
+![Fruit Fly Infection in Guava](assets/screenshots/Guava%20-%20Fruit%20Fly%20Disease.png)
+
+**Defect in Dragon Fruit**
+![Defect in Dragon Fruit](assets/screenshots/Defect%20Dragon%20Fruit.png)
+
+### 🌱 Healthy Fruits
+These are predictions of fruits with no disease symptoms.
+
+**Healthy Guava**
+![Healthy Guava](assets/screenshots/Guava%20-%20Healthy.png)
+
+**Fresh Dragon Fruit**
+![Fresh Dragon Fruit](assets/screenshots/Fresh%20Dragon%20Fruit.png)
+
 ### 🗣 Chatbot – English  
 ![Chatbot English](assets/screenshots/Chatbot%20English.png)
 
@@ -54,27 +75,6 @@ AgroSight is an AI-powered web application built using *Flask* that helps farmer
 
 ### 🇮🇳 Chatbot – Kannada  
 ![Chatbot Kannada](assets/screenshots/Chatbot%20Kannada.png)
-
-### 🍂 Diseased Fruits
-These images represent fruits affected by various diseases, as detected by the AgroSight model.
-
-**Anthracnose on Guava**
-![Anthracnose on Guava](assets/screenshots/Guava%20-%20Anthracnose%20Disease.jpg)
-
-**Fruit Fly Infection in Guava**
-![Fruit Fly Infection in Guava](assets/screenshots/Guava%20-%20Fruit%20Fly%20Disease.jpg)
-
-**Defect in Dragon Fruit**
-![Defect in Dragon Fruit](assets/screenshots/Defect%20Dragon%20Fruit.jpg)
-
-### 🌱 Healthy Fruits
-These are predictions of fruits with no disease symptoms.
-
-**Healthy Guava**
-![Healthy Guava](assets/screenshots/Guava%20-%20Healthy.png)
-
-**Fresh Dragon Fruit**
-![Fresh Dragon Fruit](assets/screenshots/Fresh%20Dragon%20Fruit.jpg)
 
 ### 📈 Model Accuracy & Loss  
 ![Training and Validation Graph](assets/screenshots/Training%20and%20Validation%20Graph.png)
