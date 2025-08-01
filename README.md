@@ -1,4 +1,4 @@
-# 🌾AgroSight – AI-Driven Agricultural Intelligence System 🌿
+# 🌾AgroSight – AI-Driven Agricultural Intelligence System🌿
 
 **AgroSight** is an AI-powered web application built using *Flask* that helps farmers detect fruit diseases (like Guava and Dragon Fruit) and get multilingual agricultural assistance through a smart chatbot. It leverages *deep learning (CNN)* for disease prediction and *Gemini API* for a multilingual AI assistant that provides farming advice, pest control suggestions, and government scheme information.
 
