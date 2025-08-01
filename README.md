@@ -92,11 +92,10 @@ These are predictions of fruits with no disease symptoms.
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/DhanushKrishna07/AgroSight.git
-cd AgroSight
+git clone https://github.com/DhanushKrishna07/agro-sight.git
+cd agro-sight
 python "Agri AI App.py"
 ```
-
 ---
 
 ## 📦 Model File Access
